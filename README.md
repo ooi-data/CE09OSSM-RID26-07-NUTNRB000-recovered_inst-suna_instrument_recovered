@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-RID26-07-NUTNRB000-recovered_inst-suna_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: NUTNR<br>
